@@ -1,5 +1,5 @@
 # Distasteful
-A chess-like board game called "Hi-Ya!"
+ "Hi-Ya!" - A chess-like board game called
 
 Objective:
 Take the opponent's King
