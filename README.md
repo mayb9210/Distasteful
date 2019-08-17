@@ -9,6 +9,7 @@ Rules:<br>
 -Units cannot move backwards or horizontal unless attacking an opponent unit<br>
 -Attacking a mini unit will destroy it<br>
 -Attacking a big unit will "demote" it to a mini version of itself<br>
+-Computer has a maximum of 5 seconds to make a move
 
 Units & Movement:<br>
 -King - Cannot move<br>
