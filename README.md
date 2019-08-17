@@ -12,10 +12,8 @@ Attacking a big unit will "demote" it to a mini version of itself
 
 Units & Movement:
 
-King - Cannot move
-
-Samurai (S) - Moves forward as many spaces as it can until it lands in front of a unit. Can move horizontal only if attacking an opponent unit. Cannot move backwards or diagonal
-
+King - Cannot move\n
+Samurai (S) - Moves forward as many spaces as it can until it lands in front of a unit. Can move horizontal only if attacking an opponent unit. Cannot move backwards or diagonal\n
 Mini Samurai (s) - Moves up 1 space. Can move horizontal 1 space only if attacking an opponent unit. Cannot move backwards
 
 Ninja (J) - Moves forward diagonal as many spaces as it can until it lands diagonal from a unit. Can move backwards diagonal only if attacking an opponent unit. Cannot move horizontal or vertical
