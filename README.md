@@ -5,7 +5,7 @@ Objective:<br>
 -Attack the opponent's King
 
 Rules:<br>
--Units take opponent units by moving in front of them<br>
+-Units attack opponent units by moving in front of them<br>
 -Units cannot move backwards or horizontal unless attacking an opponent unit<br>
 -Attacking a mini unit will destroy it<br>
 -Attacking a big unit will "demote" it to a mini version of itself<br>
