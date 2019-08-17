@@ -1,4 +1,4 @@
-// Distasteful2.cpp : Defines the entry point for the console application.
+// Distasteful.cpp : Defines the entry point for the console application.
 //
 
 //#include "stdafx.h"
