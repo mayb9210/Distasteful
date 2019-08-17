@@ -10,7 +10,7 @@ Units cannot move backwards or horizontal unless attacking an opponent unit<br>
 Attacking a mini unit will destroy it<br>
 Attacking a big unit will "demote" it to a mini version of itself<br>
 
-Units & Movement:
+Units & Movement:<br>
 King - Cannot move<br>
 Samurai (S) - Moves forward as many spaces as it can until it lands in front of a unit. Can move horizontal only if attacking an opponent unit. Cannot move backwards or diagonal<br>
 Mini Samurai (s) - Moves up 1 space. Can move horizontal 1 space only if attacking an opponent unit. Cannot move backwards<br>
